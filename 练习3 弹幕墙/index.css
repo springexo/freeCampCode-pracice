@@ -1,0 +1,34 @@
+ .show{
+ 	border:1px solid #BEBEBE;
+ 	height: 330px;
+ 	width:100%;
+ 	margin:auto 15px; 
+ 	margin-top: 20px;
+ }
+ 
+ .s_txt{
+ 	width: 250px;
+ 	height: 30px;
+ 	margin-left: 450px;
+ 	margin-top: 10px;
+ }
+ .operate{
+ 	margin-left: 450px;
+ 	margin-top: 10px;
+ }
+ .s_sub{
+ 	width: 100px;
+ 	border: 1px solid red;
+ 	color: red;
+ 	background-color: white;
+ 	border-radius: 3px;
+ 	margin-left:15px; 
+ }
+ .s_del{
+ 	width: 100px;
+ 	border: 1px solid #BFBEBE;
+ 	color: #BFBEBE;
+ 	background-color: white;
+ 	border-radius: 3px;
+ 	margin-left:11px; 
+ }
